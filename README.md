@@ -18,6 +18,7 @@ $ bundle install
 $ rails db:migrate db:seed
 ```
 
+
 This will download all the dependencies for our app and set up the database.
 
 ## Instructions
